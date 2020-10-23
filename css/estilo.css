@@ -1,0 +1,11 @@
+button{
+    height: 36px;
+    width: 60px;
+    border-radius: 9px;
+}
+input{
+    height: 28px;
+    width: 270px;
+    text-align: right;
+    border-radius: 9px;
+}
